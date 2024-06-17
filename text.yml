@@ -1,0 +1,2 @@
+- name: GitHub Script
+uses: actions/github-script@v7.0.1
